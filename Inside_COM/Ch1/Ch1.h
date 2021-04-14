@@ -4,6 +4,8 @@ Interface IX
 {
 	virtual void __stdcall Fx1() = 0;
 	virtual void __stdcall Fx2() = 0;
+	virtual void __stdcall Fx3() = 0;
+	virtual void __stdcall Fx4() = 0;
 };
 
 Interface IY
